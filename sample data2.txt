@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips pack 1","desc":"Shedevrum is a popular application that helps users improve their skills in various fields such as mathematics, programming, and foreign languages. ","photo":"https://iili.io/Hvdt05F.jpg"},
+  {"title":"advance mod 2","desc":"One of the best features of this application is its Helper function. The Helper function is designed to assist users in learning by providing additional information and examples.","photo":"https://iili.io/HvdtRiQ.jpg"},
+  {"title":"how to use this app 3","desc":"The Helper function works in real-time, providing users with instant assistance as they learn. It is like having a personal tutor available whenever you need one.","photo":"https://iili.io/HvdtAWx.jpg"},
+  {"title":"helper pack 4","desc":"As users learn, the Assist function works in real-time to give them immediate assistance. That is comparable to having a personal tutor on call at all times.","photo":"https://iili.io/HvdtY0B.png"},
+  {"title":"advice mod 5","desc":" When a user encounters a difficult concept or problem, they can simply activate the Helper function, and it will provide guidance and tips to help them better understand the material.","photo":"https://iili.io/Hvdt7fV.jpg"},
+  {"title":"tips pack 6","desc":"Simply activate the Assist function when a user runs into a challenging idea or issue, and it will offer instructions and pointers to help them comprehend the material.","photo":"https://iili.io/HvdtlJ1.jpg"},
+  {"title":"helper mod 7","desc":"For example, let's say a user is learning algebra and is struggling with solving equations. The Helper function will provide step-by-step instructions on how to solve the equation and offer tips on how to approach similar problems in the future. ","photo":"https://iili.io/HvdtEba.png"},
+  {"title":"how to use this app 8","desc":"Let's take the case of a user learning mathematics who finds it difficult to solve equations. The Assist function will offer guidance on how to solve the equation step-by-step as well as advice on how to handle similar issues in the future.","photo":"https://iili.io/HvdtaUP.webp"}
 
    ]
  
